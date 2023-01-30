@@ -97,9 +97,6 @@
     "degenerator": "2.2.0",
     "electron-builder": "^23.0.0"
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "eslintConfig": {
     "root": true,
     "env": {
